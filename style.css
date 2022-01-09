@@ -620,7 +620,12 @@ section {
 
 }
 
-
+@media  (max-width:375){
+ header .brand {
+     width: 100%;
+     text-align: center;
+ }
+}
 .scrollToTop-btn {
     z-index: 999;
 }
